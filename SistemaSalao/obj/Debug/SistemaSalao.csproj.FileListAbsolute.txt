@@ -1,0 +1,14 @@
+C:\Users\m4theussouz4\source\repos\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.exe.config
+C:\Users\m4theussouz4\source\repos\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.exe
+C:\Users\m4theussouz4\source\repos\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.pdb
+C:\Users\m4theussouz4\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.csprojAssemblyReference.cache
+C:\Users\m4theussouz4\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.Properties.Resources.resources
+C:\Users\m4theussouz4\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.csproj.GenerateResource.cache
+C:\Users\m4theussouz4\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.exe
+C:\Users\m4theussouz4\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.pdb
+C:\Users\m4theussouz4\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.frm_login.resources
+C:\Users\m4theussouz4\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.frm_menu.resources
+C:\Users\m4theussouz4\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.views.Cadastros.frm_cliente.resources
+C:\Users\m4theussouz4\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.views.Cadastros.frm_funcionario.resources
+C:\Users\m4theussouz4\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.views.Cadastros.frm_cargo.resources
+C:\Users\m4theussouz4\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.views.Cadastros.frm_produto.resources
